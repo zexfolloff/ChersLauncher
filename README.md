@@ -50,5 +50,14 @@
 ---
 ## Скриншоты лаунчера:
 <p align="center">
+ <h3>
+  Главное меню:
+ </h3>
  <img src="./screenshots/mainForm.png" width="1024px" title="Logo* Not final">
+</p>
+<p align="center">
+ <h3>
+  Меню настроек:
+ </h3>
+ <img src="./screenshots/settingsForm.png" width="1024px" title="Logo* Not final">
 </p>
