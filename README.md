@@ -16,9 +16,9 @@
 <h3>
 
 |&emsp;&emsp;
-[Wiki](https://github.com/zexfolloff/ChersLauncher/wiki/)
+[Wiki](https://github.com/zexfolloff/ChersLauncher/wiki)
 &emsp;&emsp;|&emsp;&emsp;
-[Downloads](https://github.com/zexfolloff/ChersLauncher/release/)
+[Downloads](https://github.com/zexfolloff/ChersLauncher/releases)
 &emsp;&emsp;|&emsp;&emsp;
 [Help](https://discord.com/invite/wUsBj3xBZh)
 &emsp;&emsp;|
