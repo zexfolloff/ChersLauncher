@@ -18,9 +18,9 @@
 |&emsp;&emsp;
 [Wiki](https://github.com/zexfolloff/ChersLauncher/wiki)
 &emsp;&emsp;|&emsp;&emsp;
-[Downloads](https://github.com/zexfolloff/ChersLauncher/releases)
+[Download](https://github.com/zexfolloff/ChersLauncher/releases)
 &emsp;&emsp;|&emsp;&emsp;
-[Help](https://discord.com/invite/wUsBj3xBZh)
+[Helps](https://discord.com/invite/wUsBj3xBZh)
 &emsp;&emsp;|
 
 </h3>
@@ -28,37 +28,43 @@
 
 ---
 ## Установка лаунчера:
-` 1. ` ` У вас должна быть установлена Java Runtime v1.8 / v8: `
-* Скачайте [Java Runtime v1.8](https://java.com) [Java Runtime v8](https://java.com) после этого как скачаои запустите скачанные установочные файлы и дождитесь установки
-* Скачать наше [приложение](https://disk.yandex/) по установке Java Runtime на Windows 7/10
-* Перезагрузите компьютер
+` 1. ОБЯЗАТЕЛЬНО ` ` У вас должна быть установлена Java Runtime v1.8: `
+* Сначало скачайте [Java Runtime v1.8](https://java.com) она нужна чтобы всё работало, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
+* Если вам не хочется долго искать нужную [Java Runtime v1.8](https://java.com) тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/JavaInstaller) чтобы быстро установить нужную версию Java Runtime на ваш компьютер
+* После установки перезагрузите компьютер!
+* Если у вас уже установлена ​​Java v1.8 перезагружать компьютер не нужно!
 ---
 
-* Не запускается Майнкрафт или лаунчер, проблемы с установкой?
-  * Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам
+* Не запускается лаунчер, вылетает игра или проблемы с установкой?
+  * Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам в кратчайшие сроки
 ---
 
-## Поддерживаемые системы:
+## Поддерживаемые версии системы Windows:
 |    система     |   поддержка   | 
-| -------------- | ------------- | 
-|   Windows XP   |  не известно  |
-|   Windows 7    |       да      | 
-|   Windows 8    |       да      |
-|   Windows 10   |       да      |
-|   Windows 11   |       да      |
+| -------------- | ------------- |
+|   Windows 7    |     есть      | 
+|   Windows 8    |     есть      |
+|   Windows 10   |     есть      |
+|   Windows 11   |     есть      |
 
 ---
-## Скриншоты лаунчера:
+## Скриншоты ChersLauncher:
+## • [Главное меню:](https://github.com/zexfolloff/screenshots/mainForm.png)
 <p align="center">
- <h3>
-  Главное меню:
- </h3>
- <img src="./screenshots/mainForm.png" width="1024px" title="Logo* Not final">
+ <img src="./screenshots/mainForm.png" width="1024px" title="Изображение *mainMenu.png* не найдено">
 </p>
 
+## • [Меню настроек:](https://github.com/zexfolloff/screenshots/settingsForm.png)
 <p align="center">
- <h3>
-  Меню настроек:
- </h3>
- <img src="./screenshots/settingsForm.png" width="1024px" title="Logo* Not final">
+ <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsMenu.png* не найдено">
+</p>
+
+## • [Меню выбора версии:](https://github.com/zexfolloff/screenshots/selectVersion.png)
+<p align="center">
+ <img src="./screenshots/selectVersion.png" width="1024px" title="Изображение *selectVersionMenu.png* не найдено">
+</p>
+
+## • NEW | [DiscordRPC:](https://github.com/zexfolloff/DiscordRPC-CustomApp)
+<p align="center">
+ <img src="./screenshots/discordRPC.png" width="1024px" title="Изображение *discordRPC.png* не найдено">
 </p>
