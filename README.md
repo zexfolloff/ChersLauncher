@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="./logo.png" width="512px" title="Logo* Not final">
+ <img src="./logotype.gif" width="512px" title="Logo* Not final">
 </p>
 <h2 align="center">
  ChersLauncher v0.1
