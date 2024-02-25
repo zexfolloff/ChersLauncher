@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="./icons/logotype.png" width="512px" title="Logo* Not final">
+ <img src="./icons/logotype.png" width="256px" title="Logo* Not final">
 </p>
 <h2 align="center">
  ChersLauncher v0.1
@@ -50,6 +50,6 @@
 ---
 ## Скриншоты лаунчера:
 <p align="center">
- <img src="./screenshots/mainForm.jpg" width="512px" title="Logo* Not final">
+ <img src="./screenshots/mainForm.png" width="512px" title="Logo* Not final">
 </p>
 ---
