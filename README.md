@@ -32,7 +32,7 @@
 * Скачайте [Java Runtime v1.8](https://java.com) [Java Runtime v8](https://java.com) после этого как скачаои запустите скачанные установочные файлы и дождитесь установки
 * Скачать наше [приложение](https://disk.yandex/) по установке Java Runtime на Windows 7/10
 * Перезагрузите компьютер
---
+---
 
 * Не запускается Майнкрафт или лаунчер, проблемы с установкой?
   * Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам
@@ -55,6 +55,7 @@
  </h3>
  <img src="./screenshots/mainForm.png" width="1024px" title="Logo* Not final">
 </p>
+
 <p align="center">
  <h3>
   Меню настроек:
