@@ -48,7 +48,6 @@
 |   Windows 11   |     есть      |
 
 ---
-## Скриншоты ChersLauncher:
 ## • [Главное меню:](https://github.com/zexfolloff/screenshots/mainForm.png)
 <p align="center">
  <img src="./screenshots/mainForm.png" width="1024px" title="Изображение *mainMenu.png* не найдено">
