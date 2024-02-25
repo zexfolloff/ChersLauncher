@@ -2,7 +2,9 @@
 
 ## Установка лаунчера:
 ` 1. ` ` У вас должна быть установлена Java Runtime v1.8 / v8: `
-* [Java Runtime v1.8](https://java.com), [Java Runtime v8](https://java.com) после этого запустите установочный файл и дождитесь установки
+* Скачать: [Java Runtime v1.8](https://java.com)
+* Скачать: [Java Runtime v8](https://java.com)
+* Запустите скачанные установочные файлы и дождитесь установки
 * Скачать наше [приложение](https://disk.yandex/) по установке Java Runtime на Windows 7/10
 * Перезагрузите компьютер
 ___
