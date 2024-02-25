@@ -50,5 +50,5 @@
 ---
 ## Скриншоты лаунчера:
 <p align="center">
- <img src="./screenshots/mainForm.png" width="512px" title="Logo* Not final">
+ <img src="./screenshots/mainForm.png" width="1024px" title="Logo* Not final">
 </p>
