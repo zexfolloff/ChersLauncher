@@ -51,34 +51,34 @@
  <img src="./screenshots/registerMenu.png" width="512px" title="Изображение *registerMenu.png* не найдено в папке *./screenshots*">
 </p>
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Главное меню лаунчера: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Главное меню лаунчера: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/mainMenu.png" width="1024px" title="Изображение *mainMenu.png* не найдено в папке *./screenshots*">
 </p>
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Меню настроек: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Меню настроек: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/settingsMenu.png" width="1024px" title="Изображение *settingsMenu.png* не найдено в папке *./screenshots*">
 </p>
 
 ---
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Выбор модов для игры: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Выбор модов для игры: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/selectModsTheGameMenu.png" width="1024px" title="Изображение *selectModsTheGameMenu.png* не найдено в папке *./screenshots*">
 </p>
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Установка Java: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Установка Java: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/downloadJava.png" width="1024px" title="Изображение *settingsMenu.png* не найдено в папке *./screenshots*">
 </p>
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Скачивания игры: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Скачивания игры: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/downloadGame.png" width="1024px" title="Изображение *downloadGame.png* не найдено в папке *./screenshots*">
 </p>
 
-## • <img src="./icons/green.png" width="10px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Запуск игры: ](https://github.com/zexfolloff/screenshots/)
+## • <img src="./icons/green.png" width="16px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Запуск игры: ](https://github.com/zexfolloff/screenshots/)
 <p align="center">
  <img src="./screenshots/startGame.png" width="1024px" title="Изображение *startGame.png* не найдено в папке *./screenshots*">
 </p>
