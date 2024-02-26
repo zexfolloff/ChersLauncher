@@ -3,7 +3,7 @@
  <img src="./icons/logotype.png" width="100px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
 </p>
 <h2 align="center">
- ChersLauncher v0.1 <img src="./icons/logotype.png" width="16px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
+ ChersLauncher v1.0 <img src="./icons/logotype.png" width="16px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
 </h2>
 <div align="center">
  <p>
