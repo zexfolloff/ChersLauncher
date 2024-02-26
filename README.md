@@ -29,13 +29,13 @@
 
 ## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
 
-  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
+  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
 
-  * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime v1.8](https://java.com) тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить нужную версию Java Runtime на ваш компьютер
+  * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить нужную версию Java Runtime на ваш компьютер
 
   * <img src="./icons/3.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки перезагрузите компьютер!
 
-  * <img src="./icons/4.png" width="10px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена Java Runtime v1.8 <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать компьютер не нужно!
+  * <img src="./icons/4.png" width="10px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать компьютер не нужно!
 
 ---
 
