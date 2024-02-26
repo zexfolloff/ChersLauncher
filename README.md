@@ -28,9 +28,8 @@
 ---
 
 ## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
-  * У вас должна быть установлена [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*">
 
-  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Сначало скачайте [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
+  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
 
   * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime v1.8](https://java.com) тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/JavaInstaller) чтобы быстро установить нужную версию Java Runtime на ваш компьютер
 
