@@ -26,6 +26,7 @@
 </div>
 
 ---
+
 ## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
   * У вас должна быть установлена [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*">
 
@@ -36,6 +37,7 @@
   * <img src="./icons/3.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки перезагрузите компьютер!
 
   * <img src="./icons/4.png" width="16px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена Java v1.8 перезагружать компьютер не нужно!
+
 ---
 
 * <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или проблемы с установкой?
@@ -84,7 +86,7 @@
 
 ---
 
-## • <img src="./icons/discordRPC.png" width="16px" title="Изображение *discordRPC.png* не найдено в папке *./icons*"> [ DiscordRPC: ](https://github.com/zexfolloff/DiscordRPC-CustomApp)
+## • <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*"> [ DiscordRPC: ](https://github.com/zexfolloff/DiscordRPC-CustomApp)
 <p align="center">
  <img src="./screenshots/discordRPC.png" width="1024px" title="Изображение *discordRPC.png* не найдено в папке *./screenshots*">
 </p>
