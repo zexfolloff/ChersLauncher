@@ -27,7 +27,7 @@
 
 ---
 
-## <img src="./icons/download.png" width="10px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
+## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
   * У вас должна быть установлена [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*">
 
   * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Сначало скачайте [Java Runtime v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
@@ -40,11 +40,11 @@
 
 ---
 
-* <img src="./icons/hell.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или проблемы с установкой?
+* <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или проблемы с установкой?
   * <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons/*"> Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам в кратчайшие сроки
 
 ---
-## • <img src="./icons/account.png" width="10px" title="Изображение *account.png* не найдено в папке *./icons*"> [ Система Авторизация и Регистрация: ](https://github.com/zexfolloff/screenshots)
+## • <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*"> [ Система Авторизация и Регистрация: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
  <img src="./screenshots/loginMenu.png" width="512px" title="Изображение *loginMenu.png* не найдено в папке *./screenshots*">
 </p>
