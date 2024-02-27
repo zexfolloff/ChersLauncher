@@ -12,6 +12,7 @@
  </p>
 </div>
 
+<!--
 <h5 align="center">
 
  |&emsp;&emsp;
@@ -21,6 +22,7 @@
  &emsp;&emsp;|&emsp;&emsp;
 
 </h5>
+-->
 
 <div align="center">
 <h3>
@@ -40,23 +42,28 @@
 
 ---
 
-## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
+## • Установка лаунчара <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*">
 
-  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
+   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
+     <!-- - ( --- ) -->
 
-  * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить нужную версию Java Runtime JDK на ваш компьютер
+   - <img src="./icons/2.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачивайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить новую и нужную вам версию [Java Runtime JDK](https://java.com) на ваш компьютер
+     <!-- - ( --- ) -->
 
-  * <img src="./icons/3.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
+   - <img src="./icons/3.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
+     <!-- - ( --- ) -->
 
-  * <img src="./icons/4.png" width="10px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
+   - <img src="./icons/4.png" width="16px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
+     <!-- - ( --- ) -->
 
 ---
 
-* <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или возникли проблемы с установкой?
-  * <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons/*"> Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам в кратчайшие сроки
+## • Тех.Поддержка <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./icons*">
+   - <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons*"> Возникли проблемы с установкой лаунчера или игра не запускается?
+     - <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons/*"> Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам как можно быстрее :)
 
 ---
-## • <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*"> [ Авторизация и Регистрация: ](https://github.com/zexfolloff/screenshots)
+## • Авторизация и Регистрация <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/loginForm.png" width="512px" title="Изображение *loginForm.png* не найдено в папке *./screenshots*">
 </p>
@@ -64,36 +71,55 @@
  <img src="./screenshots/registerForm.png" width="512px" title="Изображение *registerForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • [ Главное меню лаунчера: ](https://github.com/zexfolloff/screenshots)
+## • Главное меню лаунчера <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/homeForm.png" width="1024px" title="Изображение *homeForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • [ Меню настроек: ](https://github.com/zexfolloff/screenshots)
+## • Меню настроек <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ---
 
-## • [ Установка библиотек для игры: ](https://github.com/zexfolloff/screenshots)
+## • Установка библиотек для игры <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/downloadJavaForm.png" width="1024px" title="Изображение *downloadJavaForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • [ Скачивания игры: ](https://github.com/zexfolloff/screenshots)
+## • Скачивания игры <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/downloadGameForm.png" width="1024px" title="Изображение *downloadGameForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • [ Запуск игры: ](https://github.com/zexfolloff/screenshots/)
+## • Запуск игры <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/startGameForm.png" width="1024px" title="Изображение *startGameForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ---
 
-## • <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*"> [ Тестовая функция DiscordRPC: ](https://github.com/zexfolloff/DiscordRPC-CustomApp)
+## • <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*"> Тестовая функция DiscordRPC:
 <p align="center">
  <img src="./screenshots/discordRPCDemo.png" width="1024px" title="Изображение *discordRPCDemo.png* не найдено в папке *./screenshots*">
+</p>
+
+---
+
+# Тестовые функции лаунчера
+
+## • Авторизации через Discord <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*">
+<p align="center">
+ <img src="./screenshots/auth/discordAuthScreenshots.png" width="1024px" title="Изображение *discordAuthScreenshots* не найдено в папке *./screenshots/auth*">
+</p>
+
+## • Авторизации через Microsoft <img src="./icons/microsoft.png" width="16px" title="Изображение *microsoft.png* не найдено в папке *./icons*">
+<p align="center">
+ <img src="./screenshots/auth/microsoftAuthScreenshots.png" width="1024px" title="Изображение *microsoftAuthScreenshots* не найдено в папке *./screenshots/auth*">
+</p>
+
+## • Авторизации через Telegram <img src="./icons/telegram.png" width="16px" title="Изображение *telegram.png* не найдено в папке *./icons*">
+<p align="center">
+ <img src="./screenshots/auth/telegramAuthScreenshots.png" width="1024px" title="Изображение *telegramAuthScreenshots* не найдено в папке *./screenshots/auth*">
 </p>
