@@ -29,17 +29,17 @@
 
 ## <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*"> Установка лаунчера:
 
-  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился, после того как вы всё скачали запустите скачанный установочный файлы и дождитесь установки
+  * <img src="./icons/1.png" width="10px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
 
-  * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить нужную версию Java Runtime на ваш компьютер
+  * <img src="./icons/2.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить нужную версию Java Runtime JDK на ваш компьютер
 
-  * <img src="./icons/3.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки перезагрузите компьютер!
+  * <img src="./icons/3.png" width="10px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
 
-  * <img src="./icons/4.png" width="10px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать компьютер не нужно!
+  * <img src="./icons/4.png" width="10px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
 
 ---
 
-* <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или проблемы с установкой?
+* <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./screenshots*"> Не запускается лаунчер, вылетает игра или возникли проблемы с установкой?
   * <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons/*"> Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам в кратчайшие сроки
 
 ---
