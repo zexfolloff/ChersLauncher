@@ -45,47 +45,47 @@
 ---
 ## • <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*"> [ Система Авторизация и Регистрация: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/loginMenu.png" width="512px" title="Изображение *loginMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/loginForm.png" width="512px" title="Изображение *loginForm.png* не найдено в папке *./screenshots*">
 </p>
 <p align="center">
- <img src="./screenshots/registerMenu.png" width="512px" title="Изображение *registerMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/registerForm.png" width="512px" title="Изображение *registerForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ## • <img src="./icons/green.png" width="8px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Главное меню лаунчера: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/mainMenu.png" width="1024px" title="Изображение *mainMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/homeForm.png" width="1024px" title="Изображение *homeForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ## • <img src="./icons/green.png" width="8px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Меню настроек: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/settingsMenu.png" width="1024px" title="Изображение *settingsMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ---
 
 ## • <img src="./icons/green.png" width="8px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Выбор модов для игры: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/selectModsTheGameMenu.png" width="1024px" title="Изображение *selectModsTheGameMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/selectModsForm.png" width="1024px" title="Изображение *selectModsForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ## • <img src="./icons/green.png" width="9px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Скачивания игры: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/downloadGame.png" width="1024px" title="Изображение *downloadGame.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/downloadGameForm.png" width="1024px" title="Изображение *downloadGameForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ## • <img src="./icons/green.png" width="8px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Установка Java: ](https://github.com/zexfolloff/screenshots)
 <p align="center">
- <img src="./screenshots/downloadJava.png" width="1024px" title="Изображение *settingsMenu.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/downloadJavaForm.png" width="1024px" title="Изображение *downloadJavaForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ## • <img src="./icons/green.png" width="8px" title="Изображение *green.png* не найдено в папке *./icons*"> [ Запуск игры: ](https://github.com/zexfolloff/screenshots/)
 <p align="center">
- <img src="./screenshots/startGame.png" width="1024px" title="Изображение *startGame.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/startGameForm.png" width="1024px" title="Изображение *startGameForm.png* не найдено в папке *./screenshots*">
 </p>
 
 ---
 
 ## • <img src="./icons/discord.png" width="8px" title="Изображение *discord.png* не найдено в папке *./icons*"> [ DiscordRPC: ](https://github.com/zexfolloff/DiscordRPC-CustomApp)
 <p align="center">
- <img src="./screenshots/discordRPC.png" width="1024px" title="Изображение *discordRPC.png* не найдено в папке *./screenshots*">
+ <img src="./screenshots/discordRPCDemo.png" width="1024px" title="Изображение *discordRPCDemo.png* не найдено в папке *./screenshots*">
 </p>
