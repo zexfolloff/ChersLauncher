@@ -91,7 +91,7 @@
  <img src="./screenshots/downloadLibraryForm.png" width="1024px" title="Изображение *downloadLibraryForm.png* не найдено в папке *./screenshots*">
 </p>-->
 
-## • Скачивания Minecraft <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
+## • Скачивания игры <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/downloadGameForm.png" width="1024px" title="Изображение *downloadGameForm.png* не найдено в папке *./screenshots*">
 </p>
