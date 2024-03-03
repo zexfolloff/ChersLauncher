@@ -43,18 +43,21 @@
 ---
 
 ## • Установка лаунчара <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*">
-
-   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
+   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Чтобы начать игру достаточно скачать последнюю версию нашего лаунчера в [release](https://github.com/zexfolloff/ChersLauncher/releases)
      <!-- - ( --- ) -->
+<!--
+   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
+     <!-- - ( --- )
 
    - <img src="./icons/2.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачивайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить новую и нужную вам версию [Java Runtime JDK](https://java.com) на ваш компьютер
-     <!-- - ( --- ) -->
+     <!-- - ( --- )
 
    - <img src="./icons/3.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
-     <!-- - ( --- ) -->
+     <!-- - ( --- )
 
    - <img src="./icons/4.png" width="16px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
-     <!-- - ( --- ) -->
+     <!-- - ( --- )
+-->
 
 ---
 
@@ -107,8 +110,6 @@
 
 ---
 
-# Тестовые функции лаунчера
-
 ## • Авторизации через Discord <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/auth/discordAuthScreenshots.png" width="1024px" title="Изображение *discordAuthScreenshots* не найдено в папке *./screenshots/auth*">
@@ -122,4 +123,9 @@
 ## • Авторизации через Telegram <img src="./icons/telegram.png" width="16px" title="Изображение *telegram.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/auth/telegramAuthScreenshots.png" width="1024px" title="Изображение *telegramAuthScreenshots* не найдено в папке *./screenshots/auth*">
+</p>
+
+## • Авторизации через Xbox <img src="./icons/xbox.png" width="16px" title="Изображение *xbox.png* не найдено в папке *./icons*">
+<p align="center">
+ <img src="./screenshots/auth/xboxAuthScreenshots.png" width="1024px" title="Изображение *xboxAuthScreenshots* не найдено в папке *./screenshots/auth*">
 </p>
