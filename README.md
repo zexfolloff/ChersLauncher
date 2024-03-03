@@ -103,13 +103,6 @@
 
 ---
 
-## • <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*"> Тестовая функция DiscordRPC:
-<p align="center">
- <img src="./screenshots/discordRPCDemo.png" width="1024px" title="Изображение *discordRPCDemo.png* не найдено в папке *./screenshots*">
-</p>
-
----
-
 ## • Авторизации через Discord <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/auth/discordAuthScreenshots.png" width="1024px" title="Изображение *discordAuthScreenshots* не найдено в папке *./screenshots/auth*">
