@@ -101,7 +101,7 @@
  <img src="./screenshots/startGameForm.png" width="1024px" title="Изображение *startGameForm.png* не найдено в папке *./screenshots*">
 </p>
 
----
+<!---
 
 ## • Авторизации через Discord <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*">
 <p align="center">
