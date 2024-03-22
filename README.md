@@ -3,7 +3,7 @@
  <img src="./icons/logotype.png" width="100px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
 </p>
 <h2 align="center">
- ChersLauncher v1.0 <img src="./icons/logotype.png" width="16px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
+ AconoziaCraft Launcher v1.0 <img src="./icons/logotype.png" width="16px" title="Изображение *logotype.png* не найдено в папке *./icons/*">
 </h2>
 
 <div align="center">
@@ -28,13 +28,13 @@
 <h3>
  
 |&emsp;&emsp;
-[Wiki](https://github.com/zexfolloff/ChersLauncher/wiki)
+[Wiki](https://github.com/zexfolloff/AconoziaCraft-Launcher/wiki)
 &emsp;&emsp;|&emsp;&emsp;
 [Helps](https://discord.com/invite/kPZWnKnmVe)
 &emsp;&emsp;|&emsp;&emsp;
 
 |&emsp;&emsp;
-[Download](https://github.com/zexfolloff/ChersLauncher/releases)
+[Download](https://github.com/zexfolloff/AconoziaCraft-Launcher/releases)
 &emsp;&emsp;|&emsp;&emsp;
  
 </h3>
@@ -43,7 +43,7 @@
 ---
 
 ## • Установка лаунчара <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*">
-   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Чтобы начать игру нужно достаточно скачать последнюю версию нашего лаунчера в [release](https://github.com/zexfolloff/ChersLauncher/releases) Наш лаунчер автоматически скачает нужные библиотеки и дополнения для того чтобы ваша игра не зависала и ваш юыло комфортно играть ;)
+   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Чтобы начать игру нужно достаточно скачать последнюю версию нашего лаунчера в [release](https://github.com/zexfolloff/AconoziaCraft-Launcher/releases) Наш лаунчер автоматически скачает нужные библиотеки и дополнения для того чтобы ваша игра не зависала и ваш юыло комфортно играть ;)
      <!-- - ( --- ) -->
 <!--
    - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
