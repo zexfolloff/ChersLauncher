@@ -46,7 +46,7 @@
 
 ---
 
-## • Авторизация и Регистрация <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*">
+## • Авторизация и Регистрация
 <p align="center">
  <img src="./screenshots/loginForm.png" width="512px" title="Изображение *loginForm.png* не найдено в папке *./screenshots*">
 </p>
@@ -54,17 +54,14 @@
  <img src="./screenshots/registerForm.png" width="512px" title="Изображение *registerForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • Главное меню <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
-<p align="center">
+## • Главное меню
  <img src="./screenshots/homeForm.png" width="1024px" title="Изображение *homeForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • Меню настроек <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
-<p align="center">
+## • Настройки лаунчера/клиента
  <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsForm.png* не найдено в папке *./screenshots*">
 </p>
 
-## • Настройки аккаунта <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
-<p align="center">
+## • Настройки аккаунта
  <img src="./screenshots/accountForm.png" width="1024px" title="Изображение *accountForm.png* не найдено в папке *./screenshots*">
 </p>
