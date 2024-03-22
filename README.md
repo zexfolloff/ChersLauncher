@@ -38,22 +38,21 @@
 ---
 
 ### • Установка лаунчара <img src="./icons/download.png" width="16px" title="Изображение *download.png* не найдено в папке *./icons*">
-   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Чтобы начать игру нужно достаточно скачать последнюю версию нашего лаунчера в [release](https://github.com/zexfolloff/AconoziaCraft-Launcher/releases) Наш лаунчер автоматически скачает нужные библиотеки и дополнения для того чтобы ваша игра не зависала и ваш юыло комфортно играть ;)
-     <!-- - ( --- ) -->
+   - <img src="./icons/1.png" width="14px" title="Изображение *1.png* не найдено в папке *./icons*"> Чтобы начать игру нужно достаточно скачать последнюю версию нашего лаунчера в [release](https://github.com/zexfolloff/AconoziaCraft-Launcher/releases) Наш лаунчер автоматически скачает нужные библиотеки и дополнения для того чтобы ваша игра не зависала и ваш юыло комфортно играть ;)
+     <!-- - ( --- )
 <!--
-   - <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
+   - <img src="./icons/1.png" width="14px" title="Изображение *1.png* не найдено в папке *./icons*"> Скачайте последнюю версию [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> она нужна для того чтобы лаунчер запустился и игра работала стабильно, после этого ожидайте установку
      <!-- - ( --- )
 
-   - <img src="./icons/2.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачивайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить новую и нужную вам версию [Java Runtime JDK](https://java.com) на ваш компьютер
+   - <img src="./icons/2.png" width="14px" title="Изображение *2.png* не найдено в папке *./icons*"> Если вам не хочется долго искать нужную [Java Runtime JDK v1.8](https://github.com/zexfolloff/ChersLauncher/releases) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> тогда скачивайте наше приложение [JavaInstaller](https://github.com/zexfolloff/ChersLauncher/releases/JavaInstaller) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> чтобы быстро установить новую и нужную вам версию [Java Runtime JDK](https://java.com) на ваш компьютер
      <!-- - ( --- )
 
-   - <img src="./icons/3.png" width="16px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
+   - <img src="./icons/3.png" width="14px" title="Изображение *2.png* не найдено в папке *./icons*"> После установки вам предложат перезагрузить компьютер, нажмите согласиться на перезагрузку
      <!-- - ( --- )
 
-   - <img src="./icons/4.png" width="16px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
+   - <img src="./icons/4.png" width="14px" title="Изображение *4.png* не найдено в папке *./icons*"> Если у вас уже установлена [Java Runtime JDK v1.8](https://java.com) <img src="./icons/java.png" width="16px" title="Изображение *java.png* не найдено в папке *./icons/*"> перезагружать и устанавливать заново на компьютер не нужно!
      <!-- - ( --- )
 -->
-
 ---
 
 ### • Тех.Поддержка <img src="./icons/help.png" width="16px" title="Изображение *help.png* не найдено в папке *./icons*">
@@ -61,7 +60,8 @@
      - <img src="./icons/support.png" width="16px" title="Изображение *support.png* не найдено в папке *./icons/*"> Пишите нам в [тех.поддержку](https://discord.com/invite/wUsBj3xBZh) мы поможем вам как можно быстрее :)
 
 ---
-#### • Авторизация и Регистрация <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*">
+
+## • Авторизация и Регистрация <img src="./icons/account.png" width="16px" title="Изображение *account.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/loginForm.png" width="512px" title="Изображение *loginForm.png* не найдено в папке *./screenshots*">
 </p>
@@ -69,12 +69,12 @@
  <img src="./screenshots/registerForm.png" width="512px" title="Изображение *registerForm.png* не найдено в папке *./screenshots*">
 </p>
 
-#### • Главное меню <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
+## • Главное меню <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/homeForm.png" width="1024px" title="Изображение *homeForm.png* не найдено в папке *./screenshots*">
 </p>
 
-#### • Меню настроек <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
+## • Меню настроек <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsForm.png* не найдено в папке *./screenshots*">
 </p>
@@ -97,7 +97,6 @@
 </p>
 
 <!---
-
 ## • Авторизации через Discord <img src="./icons/discord.png" width="16px" title="Изображение *discord.png* не найдено в папке *./icons*">
 <p align="center">
  <img src="./screenshots/auth/discordAuthScreenshots.png" width="1024px" title="Изображение *discordAuthScreenshots* не найдено в папке *./screenshots/auth*">
