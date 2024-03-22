@@ -79,6 +79,12 @@
  <img src="./screenshots/settingsForm.png" width="1024px" title="Изображение *settingsForm.png* не найдено в папке *./screenshots*">
 </p>
 
+## • Настройки аккаунта <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
+<p align="center">
+ <img src="./screenshots/accountForm.png" width="1024px" title="Изображение *accountForm.png* не найдено в папке *./screenshots*">
+</p>
+
+
 ---
 <!--
 ## • Установка библиотек для игры <img src="./icons/1.png" width="16px" title="Изображение *1.png* не найдено в папке *./icons*">
